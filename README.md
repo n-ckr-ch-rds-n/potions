@@ -1,32 +1,35 @@
 # Potions
+ 
+I like making potions. Here are some of the things I've made that have been successful.
 
 ## Contents
-1. Tonics
+### Tonics
 - Turmeric latte
 - Elderflower fizz
 - Cherry brandy
-3. Aphrodisiacs
+### Aphrodisiacs
 - Kola nut coffee
 - Haw brandy
-4. Nootropics
+### Nootropics
 - Rhodiola
 - Lion's mane
 - Nicotine
 - Cordyceps
 - Theanine
-6. Medicines
+### Medicines
 - Haw brandy
 - Nettle
 - Valerian
 - Coltsfoot
 - Rosehip syrup
-8. Cosmetics
+### Cosmetics
 - Hair paste
 - Moisturiser
-10. Visionary
+- Perfume
+### Visionary
 - Mugwort
 - Damiana liqueur
-11. Home
+### Home
 - Incense diffuser
 - Bog freshener
 
@@ -40,4 +43,8 @@ https://www.theessentialfamily.com/wp-content/uploads/2016/09/Blending-Factors.p
 
 Hair paste
 https://www.onegoodthingbyjillee.com/make-your-own-all-natural-hair-pomade
+
+Incense diffuser
+https://www.thespruce.com/make-your-own-room-diffuser-1103952
+
 
